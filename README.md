@@ -1,18 +1,34 @@
 ![image](https://github.com/mboga09/mboga09/assets/88169247/e03bf89e-3116-481f-a4ff-af6ebcbc473e)
 
-<p>Hi! I'm Maria Jose, full stack sofware developer and Mechatronics Engineering student</p>
+<p>Hi! I'm María José, Full Stack Sofware Developer and Mechatronics Engineering student</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/m-boga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maría josé bogantes murillo" height="30" width="40" /></a>
 </p>
 
-## 💻 Languages and Tools:
+### 💻 Languages and Tools:
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## 📊 GitHub Stats:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=white) <br/>
+![Flask](https://img.shields.io/badge/flask-%2300A98F.svg?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/node-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23E74956.svg?style=flat&logo=sql&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/jwt-%23765389.svg?style=flat&logo=json-web-tokens&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white) <br/>
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-%2300A79D.svg?style=flat&logo=arduino&logoColor=white)
+![Matlab](https://img.shields.io/badge/matlab-%23E16737.svg?style=flat&logo=matlab&logoColor=white)
+![Verilog](https://img.shields.io/badge/verilog-%234F0599.svg?style=flat&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mboga09&show_icons=true&locale=en&layout=compact" alt="mboga09" /></p>
+### 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mboga09&show_icons=true&locale=en" alt="mboga09" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mboga09&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha" alt="mboga09" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mboga09&show_icons=true&locale=en&theme=catppuccin_mocha" alt="mboga09" /></p>
