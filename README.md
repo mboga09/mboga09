@@ -1,6 +1,6 @@
 ![image](https://github.com/mboga09/mboga09/assets/88169247/e03bf89e-3116-481f-a4ff-af6ebcbc473e)
 
-<p>Hi! I'm María José, Full Stack Sofware Developer and Mechatronics Engineering student</p>
+<p>Hi! I'm María José, full-stack software developer currently studying Mechatronics Engineering. I have experience in HTML5/CSS3, JavaScript, React and Python. I have also worked with APIs, JSON data, and SQLAlchemy. I'm good at solving problems, working well with others in a team, and taking the lead when needed.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
